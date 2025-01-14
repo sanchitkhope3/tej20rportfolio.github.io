@@ -1,0 +1,16 @@
+theme: jekyll-cayman
+
+# Site title and description
+title: My Site
+description: A minimal website using Cayman theme
+
+# Navigation menu (add your links here)
+navbar_links:
+  - text: Home
+    url: /
+  - text: About
+    url: /about
+  - text: Projects
+    url: /projects
+  - text: Contact
+    url: /contact
